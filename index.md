@@ -1,2 +1,1 @@
-# <h1> This is a sample header1
-## <h2> This is a sample header2
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
